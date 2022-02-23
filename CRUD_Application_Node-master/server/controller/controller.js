@@ -13,6 +13,7 @@ exports.create = (req,res)=>{
         name : req.body.name,
         email : req.body.email,
         gender: req.body.gender,
+        age:req.body.age,
         status : req.body.status
     })
 

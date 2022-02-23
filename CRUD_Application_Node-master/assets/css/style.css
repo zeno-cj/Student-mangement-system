@@ -216,7 +216,7 @@ table{
 #add_user .form-group .btn{
     width: 100%;
     padding: .9em 1em;
-    background-color:#16db93; 
+    background-color:#f5cac3; 
     border: none;
     font-family: 'PT Sans', sans-serif;
     font-size: 1em;
@@ -227,6 +227,6 @@ table{
 
 #update_user .form-group .btn:hover,
 #add_user .form-group .btn:hover{
-    background-color: var(--dark);
+    background-color: #e07a5f;
     color: var(--border);
 }
